@@ -1,0 +1,28 @@
+[
+  {
+    "id": "gomi-no-hi",
+    "name": "ゴミの日",
+    "shortDescription": "ごみ収集日を確認・Push 通知する PWA",
+    "description": "ごみ収集日を確認できる PWA アプリ。今日・明日・今後 7 日間の収集品目表示、月間カレンダー、分別ガイド、前日夜・当日朝の Push 通知、オフライン対応を備える。",
+    "category": "Lifestyle",
+    "icon": "/icons/gomi-no-hi.png",
+    "screenshots": [],
+    "githubUrl": "https://github.com/ITK13201/gomi-no-hi",
+    "platforms": [
+      { "type": "Mobile Web", "url": "https://gomi-no-hi.tail384c9.ts.net/" }
+    ]
+  },
+  {
+    "id": "money-rabbit",
+    "name": "MoneyRabbit",
+    "shortDescription": "CSV インポート × AI 自動分類の家計簿 PWA",
+    "description": "銀行口座の CSV をインポートして収支を管理する個人用家計簿 PWA。キーワードルールと Claude API による AI 自動カテゴリ分類、月次サマリー・グラフ表示、CSV 2 ステップインポートを備える。",
+    "category": "Finance",
+    "icon": "/icons/money-rabbit.png",
+    "screenshots": [],
+    "githubUrl": "https://github.com/ITK13201/MoneyRabbit",
+    "platforms": [
+      { "type": "Mobile Web", "url": "https://moneyrabbit.tail384c9.ts.net/" }
+    ]
+  }
+]

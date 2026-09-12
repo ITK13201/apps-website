@@ -73,7 +73,7 @@ export default function AppCatalog({ apps, categories }: AppCatalogProps) {
           </p>
         </div>
       ) : (
-        <div className="grid grid-cols-1 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {filteredApps.map((app) => (
             <AppCard key={app.id} app={app} />
           ))}
